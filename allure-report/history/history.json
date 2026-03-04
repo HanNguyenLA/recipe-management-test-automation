@@ -1,0 +1,1 @@
+{"76bba3cf12fa3345d9de4ce859756a1d":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"7ac4259f3c455cfd","reportUrl":"http://localhost:8080/job/selenium-auto-test/22/allure/#testresult/7ac4259f3c455cfd","status":"passed","time":{"start":1772633569708,"stop":1772633575205,"duration":5497}}]}}

@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5497","TC05: Add and remove ingredients","Full Test Suite","Wed Mar 04 21:12:49 ICT 2026","passed","Wed Mar 04 21:12:55 ICT 2026","tests.RecipeTest","Recipe Tests","tests.RecipeTest","testAddAndRemoveIngredient"
